@@ -16,7 +16,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Nightingale's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arpit-omprakash&show_icons=true&hide_border=true" />
+  <img align="left" alt="Nightingale's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nightingale-evening&show_icons=true&hide_border=true" />
 
 <br />
 
