@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hi there, 👋
 
-<!--
-**nightingale-evening/nightingale-evening** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Software Engineer, Student, and Helper!
+- 🌱 I’m currently learning about statistics and machine learning
+- 💻 I use `.python`, `.typescript`, `.javascript`, `.php`, `.git`, `.bash`, `.powershell`
+- 💬 Ask me about Science and Python
+- 📫 How to reach me: fractalcrystal315@gmail.com
+- 😄 Pronouns: He/His
 
-Here are some ideas to get you started:
+<br />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="Nightingale's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arpit-omprakash&show_icons=true&hide_border=true" />
+
+<br />
+
+</details>
+
+<br />
