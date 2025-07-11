@@ -34,29 +34,31 @@
   <img align="center" alt="John-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="John-Rails" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg">
 </div>
+<br/>
+
 <div style="display: inline_block">
-  <img src="https://icongr.am/devicon/c-original.svg?size=46&color=563d7c" title="C">
-  <img src="https://icongr.am/devicon/cplusplus-original.svg?size=43&color=563d7c" title="C++">
-  <img src="https://icongr.am/devicon/html5-original.svg?size=43&color=563d7c" title="HTML">
-  <img src="https://icongr.am/devicon/css3-original.svg?size=43&color=563d7c" title="CSS">
-  <img src="https://icongr.am/devicon/express-original.svg?size=43&color=949494" title="Express.js">
-  <img src="https://icongr.am/devicon/bootstrap-plain.svg?size=43&color=563d7c" title="BootStrap">
-  <img src="https://icongr.am/devicon/javascript-original.svg?size=43&color=563d7c" title="JavaScript">
-  <img src="https://icongr.am/devicon/yarn-original.svg?size=43&color=563d7c" title="YARN">
-  <img src="https://icongr.am/devicon/git-original.svg?size=43&color=563d7c" title="Git">
-  <img src="https://icongr.am/devicon/react-original.svg?size=43&color=563d7c" title="React">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="43" width="43" title="Redux" />
-  <img src="https://icongr.am/octicons/mark-github.svg?size=43&color=949494" title="GitHub">
-  <img src="https://icongr.am/devicon/heroku-original.svg?size=43&color=563d7c" title="Heroku">
-  <img src="https://icongr.am/devicon/nodejs-original.svg?size=43&color=563d7c" title="Node.js">
-  <img src="https://icongr.am/devicon/python-original.svg?size=43&color=563d7c" title="Python">
-  <img src="https://icongr.am/devicon/mongodb-original.svg?size=43&color=563d7c" title="MongoDB">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="43" width="43" title="Firebase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="43" width="43" title="Typescript" />
-  <img src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" height="43" width="43" title="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="43" width="43" title="Springboot" />
-  <img src="https://icongr.am/devicon/docker-original.svg" height="43" width="43" title="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="43" width="43" title="Kubernetes" />
+  <img height="180em" src="https://icongr.am/devicon/c-original.svg?size=46&color=563d7c" title="C">
+  <img height="180em" src="https://icongr.am/devicon/cplusplus-original.svg?size=43&color=563d7c" title="C++">
+  <img height="180em" src="https://icongr.am/devicon/html5-original.svg?size=43&color=563d7c" title="HTML">
+  <img height="180em" src="https://icongr.am/devicon/css3-original.svg?size=43&color=563d7c" title="CSS">
+  <img height="180em" src="https://icongr.am/devicon/express-original.svg?size=43&color=949494" title="Express.js">
+  <img height="180em" src="https://icongr.am/devicon/bootstrap-plain.svg?size=43&color=563d7c" title="BootStrap">
+  <img height="180em" src="https://icongr.am/devicon/javascript-original.svg?size=43&color=563d7c" title="JavaScript">
+  <img height="180em" src="https://icongr.am/devicon/yarn-original.svg?size=43&color=563d7c" title="YARN">
+  <img height="180em" src="https://icongr.am/devicon/git-original.svg?size=43&color=563d7c" title="Git">
+  <img height="180em" src="https://icongr.am/devicon/react-original.svg?size=43&color=563d7c" title="React">
+  <img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="43" width="43" title="Redux" />
+  <img height="180em" src="https://icongr.am/octicons/mark-github.svg?size=43&color=949494" title="GitHub">
+  <img height="180em" src="https://icongr.am/devicon/heroku-original.svg?size=43&color=563d7c" title="Heroku">
+  <img height="180em" src="https://icongr.am/devicon/nodejs-original.svg?size=43&color=563d7c" title="Node.js">
+  <img height="180em" src="https://icongr.am/devicon/python-original.svg?size=43&color=563d7c" title="Python">
+  <img height="180em" src="https://icongr.am/devicon/mongodb-original.svg?size=43&color=563d7c" title="MongoDB">
+  <img height="180em" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"  title="Firebase" />
+  <img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  title="Typescript" />
+  <img height="180em" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor"  title="Java" />
+  <img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"  title="Springboot" />
+  <img height="180em" src="https://icongr.am/devicon/docker-original.svg"  title="Docker" />
+  <img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg"  title="Kubernetes" />
 </div>
 
 <h2>𝐶𝑜𝑛𝑡𝑎𝑐𝑡</h2>
