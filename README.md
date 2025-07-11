@@ -25,18 +25,6 @@
 <h2>𝑇𝑒𝑐ℎ𝑛𝑜𝑙𝑜𝑔𝑖𝑒𝑠 𝑎𝑛𝑑 𝑇𝑜𝑜𝑙𝑠</h2>
 
 <div style="display: inline_block">
-  <img align="center" alt="John-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="John-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="center" alt="John-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="John-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="John-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="John-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="John-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="John-Rails" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg">
-</div>
-<br/>
-
-<div style="display: inline_block">
   <img width="40px" height="30px" src="https://icongr.am/devicon/c-original.svg?size=46&color=563d7c" title="C">
   <img width="40px" height="30px" src="https://icongr.am/devicon/cplusplus-original.svg?size=43&color=563d7c" title="C++">
   <img width="40px" height="30px" src="https://icongr.am/devicon/html5-original.svg?size=43&color=563d7c" title="HTML">
@@ -47,6 +35,9 @@
   <img width="40px" height="30px" src="https://icongr.am/devicon/yarn-original.svg?size=43&color=563d7c" title="YARN">
   <img width="40px" height="30px" src="https://icongr.am/devicon/git-original.svg?size=43&color=563d7c" title="Git">
   <img width="40px" height="30px" src="https://icongr.am/devicon/react-original.svg?size=43&color=563d7c" title="React">
+  <img align="center" alt="John-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+  <img align="center" alt="John-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="John-Rails" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg">
   <img width="40px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="43" width="43" title="Redux" />
   <img width="40px" height="30px" src="https://icongr.am/octicons/mark-github.svg?size=43&color=949494" title="GitHub">
   <img width="40px" height="30px" src="https://icongr.am/devicon/heroku-original.svg?size=43&color=563d7c" title="Heroku">
