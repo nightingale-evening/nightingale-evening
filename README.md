@@ -7,9 +7,7 @@
 - 📫 How to reach me: fractalcrystal315@gmail.com
 - 😄 Pronouns: He/His
 
-<br />
----
-<br>
+
 <details>
   <summary>:zap: Github Stats</summary>
 
@@ -18,9 +16,6 @@
 
 </details>
 
-<br />
----
-<br>
 <h2>𝑆𝑡𝑎𝑡𝑠</h2>
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nightingale&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true">
