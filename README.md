@@ -1,6 +1,6 @@
 ### Hi there, 👋
 
-## I'm a Software Engineer, Student, and Helper!
+## Software Engineer, Student, and Helper!
 - 🌱 I’m currently learning about statistics and machine learning
 - 💻 I use `.python`, `.typescript`, `.javascript`, `.php`, `.git`, `.bash`, `.powershell`
 - 💬 Ask me about Science and Python
@@ -23,20 +23,6 @@
 </details>
 
 <br />
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/4eff9851-b60b-459a-aaa8-6a8551564c8f">
-</div>
-
-<h2>𝐴𝑏𝑜𝑢𝑡 𝑀𝑒</h2>
-
-<ul>
-  <li>🔭 I’m currently working on something cool 🚀!</li>
-  <li>🌱 I’m currently learning <b>Flutter, React, Vue.js and Ruby on Rails</b>.</li>
-  <li>📫 How to reach me: <b><a href="mailto:fractal.crystal315@gamil.com">fractal.crystal315@gamil.com</a></b></li>
-  <li>😄 Pronouns: He/Him</li>
-  <li>⚡ Fun fact: I play guitar</li>
-</ul>
 
 <br>
 
