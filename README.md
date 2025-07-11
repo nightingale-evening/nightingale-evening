@@ -1,4 +1,4 @@
-### Hi there, 👋
+### Hi there, 🖐 🤝 👍
 
 ## Software Engineer, Student, and Helper!
 - 🌱 I’m currently learning about statistics and machine learning
