@@ -15,12 +15,12 @@
 
   <img align="left" alt="Nightingale's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nightingale-evening&show_icons=true&hide_border=true" />
 <br />
+
 </details>
+
 <br />
-<p align="center">
-  🎵 𝙄 𝙠𝙣𝙤𝙬 𝙞𝙩'𝙨 𝙝𝙖𝙧𝙙 𝙗𝙪𝙩 𝙞𝙩 🎵<br>
-  𝙬𝙤𝙣'𝙩 𝙬𝙤𝙧𝙠 𝙪𝙣𝙡𝙚𝙨𝙨 𝙮𝙤𝙪 𝙩𝙧𝙮
-</p>
+---
+<br>
 <h2>𝑆𝑡𝑎𝑡𝑠</h2>
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nightingale&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true">
