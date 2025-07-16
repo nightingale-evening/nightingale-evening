@@ -16,12 +16,6 @@
 
 </details>
 
-<h2>𝑆𝑡𝑎𝑡𝑠</h2>
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nightingale&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightingale&layout=compact&theme=github_dark&hide_border=true&hide=css,html&langs_count=8">
-</div>
-
 <h2>𝑇𝑒𝑐ℎ𝑛𝑜𝑙𝑜𝑔𝑖𝑒𝑠 𝑎𝑛𝑑 𝑇𝑜𝑜𝑙𝑠</h2>
 
 <div style="display: inline_block">
